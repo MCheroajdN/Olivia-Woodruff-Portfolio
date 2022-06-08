@@ -24,4 +24,4 @@ Project is completed as required.
 
 ## Author/Contact
 * M. Christopher
-* GitHub: 
+* GitHub:  https://mcheroajdn.github.io/Olivia-Woodruff-Portfolio/index.html
