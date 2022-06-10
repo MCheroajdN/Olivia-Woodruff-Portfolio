@@ -8,15 +8,16 @@ body {
     border-radius: 50%;
   }
   
-  .header {
+  header {
     background-color: CornflowerBlue;
     text-align: center;
+    padding: 20px;
   }
   
   .about-me {
     font-size: 20px;
     opacity: 0.5;
-    color: darkred;
+    color: azure;
   }
   
   main{
